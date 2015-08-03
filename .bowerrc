@@ -1,0 +1,6 @@
+{
+  "proxy":"http://ii-internetproxy.ii-corpnet.com:3128",
+  "https-proxy":"http://ii-internetproxy.ii-corpnet.com:3128",
+  "directory": "bower_components",
+  "analytics": false
+}
